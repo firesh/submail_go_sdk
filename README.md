@@ -2,7 +2,7 @@
 #### 引入方式：
 1. 下载SDK源码，然后放在$GOPATH/src目录下.
 1. 修改文件夹名为submail_go_sdk。
-1. 在项目下进行包引用。如短信包：import (sms "submail_go_sdk/submail/sms")  / 邮件包 import (mail "submail_go_sdk/submail/mail")
+1. 在项目下进行包引用。如短信包：import (sms "github.com/firesh/submail_go_sdk/submail/sms")  / 邮件包 import (mail "github.com/firesh/submail_go_sdk/submail/mail")
 ---
 
 #### 下载
